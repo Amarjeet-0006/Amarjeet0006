@@ -25,7 +25,7 @@ Linux, Networking, CTF basics, Penetration Testing
 Documenting TryHackMe room walkthroughs
 Building Linux command cheatsheets
 Learning web app vulnerabilities (OWASP Top 10)
-<img width="425" height="500" alt="hashcracker" src="https://github.com/user-attachments/assets/926e0a02-5c22-406d-8180-c8d3a6a7f9ab" />
+<img width="225" height="250" alt="hashcracker" src="https://github.com/user-attachments/assets/926e0a02-5c22-406d-8180-c8d3a6a7f9ab" />
 <img width="425" height="500" alt="streak7" src="https://github.com/user-attachments/assets/8b6d4918-ec61-46e0-8af3-0408e7e03e8a" />
 <img width="389" height="500" alt="streak3" src="https://github.com/user-attachments/assets/2b8746f0-d487-4297-a2e4-65323bdefa34" />
 <img width="425" height="500" alt="linux" src="https://github.com/user-attachments/assets/dd080d06-ece1-40e1-b0a2-2f74555c2411" />
