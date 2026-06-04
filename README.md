@@ -76,7 +76,7 @@ I believe in learning by doing. My GitHub serves as a collection of notes, walkt
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/amarjeet-singh-814046386/
-- TryHackMe: https://tryhackme.com/p/amar.x.victus
+- TryHackMe: https://tryhackme.com/p/amar.x.victus2
 - GitHub: https://github.com/Amarjeet-0006
 
 ---
